@@ -15,7 +15,7 @@ Estudante de Engenharia de Software na Católica de Joinville, com conclusão pr
 
 ## Estudando agora
 
-PHP, React e banco de dados (disciplina em andamento).
+PHP, React.
 
 ## Contato
 
