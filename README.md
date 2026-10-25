@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Peixoto
 
-<!--
-**lucaspeixotoo/lucaspeixotoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na Católica de Joinville, com conclusão prevista em 2029. Procuro estágio em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[calculadora-dosagem-agricola](https://github.com/lucaspeixotoo/calculadora-dosagem-agricola)**: API em Node.js e Express que calcula dosagem de insumos agrícolas, com testes automatizados em Jest e integração contínua no GitHub Actions.
+
+## Tecnologias
+
+- **Linguagens:** JavaScript (Node.js), C, C#
+- **Banco de dados:** SQL (consultas e views)
+- **Web:** HTML, CSS
+- **Testes e ferramentas:** Jest, Git, GitHub Actions
+
+## Estudando agora
+
+PHP, React e banco de dados (disciplina em andamento).
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/lucaspeixotoo)
